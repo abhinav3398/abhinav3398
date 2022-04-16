@@ -33,6 +33,8 @@ I am a Machine Learning Enthusiast <img src="https://media.giphy.com/media/BDSnc
 
 - ⚡ I watch anime. And, in my free timem I solve problems on Euler project, read books, tech articles and research papers.
 
+- 📝 Checkout my [Resume](resume/resume.pdf).
+
 - I'm a firm believer in the notion that **learning never stops until you’re 💀**
 
 - _I honestly wish I am immortal so I could learn everything about everything 😔_
