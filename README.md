@@ -28,7 +28,8 @@ I am a Machine Learning Enthusiast <img src="https://media.giphy.com/media/BDSnc
 
 - 📂 All of my projects are available in [my github repositories](https://github.com/abhinav3398?tab=repositories)
 
-- 💬 Ask me about **SQL, Machine Learning, Robotics, Artificial Intelligence, Automation or [game statistics in Kakegurui 😜](https://kakegurui.fandom.com/wiki/Category:Gambles)**
+<!-- - 💬 Ask me about **SQL, Machine Learning, Robotics, Artificial Intelligence, Automation or [game statistics in Kakegurui 😜](https://kakegurui.fandom.com/wiki/Category:Gambles)** -->
+- 💬 Ask me about **SQL, Machine Learning, Robotics, Artificial Intelligence, Automation, Statistics, etc.**
 
 - ⚡ I watch anime. And, in my free timem I solve problems on Euler project, read books, tech articles and research papers.
 
