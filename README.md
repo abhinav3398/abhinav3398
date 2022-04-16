@@ -12,7 +12,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://64.media.tumblr.com/d98c7e0c53e1aaa8521ddcb31a421373/tumblr_nbyrlaLLDw1s141c3o1_r1_400.gifv" width="300" height="300"/>
+  <img src="assets\data-analyst-lifecycle.webp" width="300" height="350"/>
 </div>
 
 ---
