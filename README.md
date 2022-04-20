@@ -24,7 +24,7 @@ I am a Machine Learning Enthusiast <img src="https://media.giphy.com/media/BDSnc
 
 - 👨🏼‍💻 I am currently working on [Capacity Planning by predicting and analyzing patient LOS(Length Of Stay)](https://github.com/abhinav3398/healthcare---capacity-planning)
 
-- Currently learning about **Reinforcement Learning & Deep Learning**
+- Currently learning about **Time Series Analysis**
 
 - 📂 All of my projects are available in [my github repositories](https://github.com/abhinav3398?tab=repositories)
 
