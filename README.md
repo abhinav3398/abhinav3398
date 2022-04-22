@@ -18,7 +18,7 @@
 ---
 
 ### 🧑‍💻 About Me :
-I am a Machine Learning Enthusiast <img src="https://media.giphy.com/media/BDSncqgMtH3DcDiVwd/giphy.gif" height="25"> based in Toronto, Canada.
+I am a Data Science Enthusiast <img src="https://media.giphy.com/media/BDSncqgMtH3DcDiVwd/giphy.gif" height="25"> based in Toronto, Canada.
 
 - 🎓 I am a recent graduate in **Data Analytics for Business from St. Clair College**
 
