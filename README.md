@@ -46,21 +46,25 @@ I am a Data Science Enthusiast <img src="https://media.giphy.com/media/BDSncqgMt
 
 ### 🛠️ Languages and Tools :
 <div>
-  <img src="assets/julia-original.svg" href="https://julialang.org/" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
-  <img src="assets/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="assets/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="assets/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="assets/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="assets/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="assets/r-original.svg"  title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="assets/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry-Pi" width="40" height="40"/>&nbsp;
-  <img src="assets/sqlite-original.svg" title="SqLite" alt="SqLite" width="40" height="40"/>&nbsp;
-  <img src="assets/sqlalchemy-original.svg" title="SqlAlchemy" alt="SqlAlchemy" width="40" height="40"/>&nbsp;
-  <img src="assets/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="assets/vscode-original.svg" title="vs-code"  alt="vs-code" width="40" height="40"/>&nbsp;
-  <img src="assets/jump.svg" title="JuMP" alt="JuMP" width="40" height="40"/>&nbsp;
-  <img src="assets/flux.png" title="flux" alt="Flux" width="40" height="40"/>&nbsp;
-  <img src="assets/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <a href="https://julialang.org/"><img src="assets/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/> </a>&nbsp;
+  <a href="https://jump.dev/JuMP.jl/stable/"> <img src="assets/jump.svg" title="JuMP" alt="JuMP" width="40" height="40"/> </a>&nbsp;
+  <a href="https://fluxml.ai/Flux.jl/stable/"> <img src="assets/flux.png" title="flux" alt="Flux" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.python.org/"> <img src="assets/python-original.svg" title="Python" alt="Python" width="40" height="40"/> </a>&nbsp;
+  <a href="https://numpy.org/"> <img src="assets/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/> </a>&nbsp;
+  <a href="https://pandas.pydata.org/docs/"> <img src="assets/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/> </a>&nbsp;
+  <a href="https://jupyter.org/"> <img src="assets/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.sqlite.com/index.html"> <img src="assets/sqlite-original.svg" title="SqLite" alt="SqLite" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.sqlalchemy.org/"> <img src="assets/sqlalchemy-original.svg" title="SqlAlchemy" alt="SqlAlchemy" width="40" height="40"/> </a>&nbsp;
+  <a href="https://opencv.org/"> <img src="assets/opencv-original.svg" title="OpenCV"  alt="OpenCV" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.tensorflow.org/"> <img src="assets/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.linux.org/"> <img src="assets/linux-original.svg" title="linux"  alt="linux" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.r-project.org/"> <img src="assets/r-original.svg"  title="R" alt="R" width="40" height="40"/> </a>&nbsp;
+  <a href="https://code.visualstudio.com/"> <img src="assets/vscode-original.svg" title="vs-code"  alt="vs-code" width="40" height="40"/> </a>&nbsp;
+  <a href="https://git-scm.com/"> <img src="assets/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> </a>&nbsp;
+  <a href="https://github.com/"> <img src="assets/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.cprogramming.com/"> <img src="assets/c-original.svg" title="C" alt="C" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.mathworks.com/products/matlab.html"> <img src="assets/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.raspberrypi.org/"> <img src="assets/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry-Pi" width="40" height="40"/> </a>
 </div>
 
 ---
