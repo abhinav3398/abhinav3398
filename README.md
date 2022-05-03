@@ -46,7 +46,7 @@ I am a Data Science Enthusiast <img src="https://media.giphy.com/media/BDSncqgMt
 
 ### 🛠️ Languages and Tools :
 <div>
-  <img src="assets/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
+  <img src="assets/julia-original.svg" href="https://julialang.org/" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
   <img src="assets/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="assets/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="assets/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
