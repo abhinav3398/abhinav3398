@@ -29,8 +29,8 @@ I am a Data Science Enthusiast <img src="https://media.giphy.com/media/BDSncqgMt
 
 - ⚡ I watch anime. And, in my free timem I solve problems on Euler project, read books, tech articles and research papers.
 
-<!-- - 📝 Checkout my [Resume](resume/resume.pdf). -->
-- 📝 Checkout my [Resume](https://github.com/abhinav3398/abhinav3398/blob/resume/resume/resume.pdf).
+- 📝 Checkout my [Resume](resume/resume.pdf).
+<!-- - 📝 Checkout my [Resume](https://github.com/abhinav3398/abhinav3398/blob/resume/resume/resume.pdf). -->
 
 - I'm a firm believer in the notion that **learning never stops until you’re 💀**
 
@@ -74,14 +74,7 @@ I am a Data Science Enthusiast <img src="https://media.giphy.com/media/BDSncqgMt
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav3398&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&show_icons=true" />
   </a>
-</div>
-
-<br>
-<div>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav3398&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhinav3398&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+  <br>
   <a href='https://github.com/anuraghazra/github-readme-stats'>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav3398&layout=compact&theme=synthwave" />
   </a>
@@ -89,4 +82,3 @@ I am a Data Science Enthusiast <img src="https://media.giphy.com/media/BDSncqgMt
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=abhinav3398&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&show_icons=true" />
   </a>
 </div>
----
