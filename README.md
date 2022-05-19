@@ -76,9 +76,9 @@ I am a Data Science Enthusiast <img src="https://media.giphy.com/media/BDSncqgMt
   </a>
   <br>
   <a href='https://github.com/anuraghazra/github-readme-stats'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav3398&layout=compact&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav3398&layout=compact&theme=synthwave" width=300 />
   </a>
   <a href='https://github.com/anuraghazra/github-readme-stats'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=abhinav3398&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=abhinav3398&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&show_icons=true" width=450 />
   </a>
 </div>
