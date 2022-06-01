@@ -44,7 +44,7 @@ I am a Data Science Enthusiast <img src="https://media.giphy.com/media/BDSncqgMt
 
 ---
 
-### 🛠️ Languages and Tools :
+### 🛠️ Tech Stack :
 <div>
   <a href="https://julialang.org/"><img src="assets/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/> </a>&nbsp;
   <a href="https://jump.dev/JuMP.jl/stable/"> <img src="assets/jump.svg" title="JuMP" alt="JuMP" width="40" height="40"/> </a>&nbsp;
