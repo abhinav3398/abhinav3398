@@ -34,7 +34,7 @@ I am a Data Science Enthusiast <img src="https://media.giphy.com/media/BDSncqgMt
 
 - ⚡ I watch anime. And, in my free timem I solve problems on Euler project, read books, tech articles and research papers.
 
-- 📝 Checkout my [Resume](resume/resume.pdf).
+- 📝 Checkout my [Resume](/resume/Abhinav Lakhani - Resume.pdf).
 
 - I'm a firm believer in the notion that **learning never stops until you’re 💀**
 
