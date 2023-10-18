@@ -20,7 +20,7 @@
 ### 🧑‍💻 About Me :
 I am a Data Science Enthusiast <img src="https://media.giphy.com/media/BDSncqgMtH3DcDiVwd/giphy.gif" height="25"> based in Canada.
 
-- 🎓 I am a recent graduate in **Data Analytics for Business from St. Clair College**
+- 🎓 I am a recent graduate in **Data Analytics for Business**
 
 - 👨🏼‍💻 I am currently working on [Capacity Planning by predicting and analyzing patient LOS(Length Of Stay)](https://github.com/abhinav3398/healthcare---capacity-planning)
 
