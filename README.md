@@ -18,7 +18,7 @@
   <img align="right" src="assets\data-analyst-lifecycle.webp" width="300" height="400"/>
 
 ### 🧑‍💻 About Me :
-I am a Data Science Enthusiast <img src="https://media.giphy.com/media/BDSncqgMtH3DcDiVwd/giphy.gif" height="25"> based in Toronto, Canada.
+I am a Data Science Enthusiast <img src="https://media.giphy.com/media/BDSncqgMtH3DcDiVwd/giphy.gif" height="25"> based in Canada.
 
 - 🎓 I am a recent graduate in **Data Analytics for Business from St. Clair College**
 
